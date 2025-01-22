@@ -1,3 +1,8 @@
-# Weibo
-HOST-SUFFIX,api.weibo.cn,Weibo
-HOST-SUFFIX,api.weibo.com,Weibo
+#Weibo
+HOST,weibointl.api.weibo.cn,Weibo
+HOST,wbapp.mobile.sina.cn,Weibo
+HOST,api.weibo.cn,Weibo
+HOST,mapi.weibo.com,Weibo
+#XiaoHongShu
+HOST-SUFFIX,xiaohongshu.com,XiaoHongShu
+HOST-KEYWORD,xiaohongshu,XiaoHongShu
