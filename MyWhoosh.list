@@ -1,5 +1,6 @@
 HOST,s2s.singular.net,MyWhoosh
+HOST,stage-logservice.my-whoosh.com,MyWhoosh
 HOST-SUFFIX,mywhoosh.com,MyWhoosh
-HOST-KEYWORD,my-whoosh,MyWhoosh
 HOST-KEYWORD,west1,MyWhoosh
 HOST-KEYWORD,mywhoosh,MyWhoosh
+IP-CIDR,54.195.103.234/32,MyWhoosh
