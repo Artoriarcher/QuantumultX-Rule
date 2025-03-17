@@ -3,4 +3,4 @@ HOST,stage-logservice.my-whoosh.com,MyWhoosh
 HOST-SUFFIX,mywhoosh.com,MyWhoosh
 HOST-KEYWORD,west1,MyWhoosh
 HOST-KEYWORD,mywhoosh,MyWhoosh
-IP-CIDR,54.195.103.234/32,MyWhoosh
+IP-CIDR,54.195.103.234/32,MyWhoosh,no-resolve
