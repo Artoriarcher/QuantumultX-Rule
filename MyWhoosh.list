@@ -3,4 +3,4 @@ HOST-SUFFIX,mywhoosh.com,MyWhoosh
 HOST-KEYWORD,my-whoosh,MyWhoosh
 HOST-KEYWORD,west1,MyWhoosh
 HOST-KEYWORD,mywhoosh,MyWhoosh
-HOST-KEYWORD,54.195.103.234,MyWhoosh
+IP-CIDR,54.195.103.234,MyWhoosh
