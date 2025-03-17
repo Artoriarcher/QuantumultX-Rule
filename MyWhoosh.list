@@ -1,1 +1,6 @@
+HOST,s2s.singular.net,MyWhoosh
+HOST-SUFFIX,mywhoosh.com,MyWhoosh
+HOST-SUFFIX,my-whoosh.com,MyWhoosh
+HOST-KEYWORD,europe-west1,MyWhoosh
 HOST-KEYWORD,mywhoosh,MyWhoosh
+IP-CIDR,54.195.103.234/7798,MyWhoosh
