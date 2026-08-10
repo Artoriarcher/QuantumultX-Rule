@@ -1,0 +1,9 @@
+
+#Weibo
+DOMAIN,weibointl.api.weibo.cn,AppApi
+DOMAIN,wbapp.mobile.sina.cn,AppApi
+DOMAIN,api.weibo.cn,AppApi
+DOMAIN,mapi.weibo.com,AppApi
+#XiaoHongShu
+DOMAIN-SUFFIX,xiaohongshu.com,AppApi
+DOMAIN-KEYWORD,xiaohongshu,AppApi
