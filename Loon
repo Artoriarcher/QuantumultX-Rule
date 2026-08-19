@@ -35,4 +35,7 @@ DOMAIN,nga.178.com
 #Hupu
 DOMAIN,bbs.mobileapi.hupu.com
 
+#Tencent
+IP-ASN,132203,DIRECT
+
     
