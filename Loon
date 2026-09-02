@@ -7,6 +7,7 @@ DOMAIN,mapi.weibo.com
 #XiaoHongShu
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-KEYWORD,xiaohongshu
+DOMAIN-SUFFIX,rnote.com
 
 #Baidu Tieba
 DOMAIN,tieba.baidu.com
